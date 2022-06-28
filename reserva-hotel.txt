@@ -1,0 +1,4 @@
+El algoritmo solicita al empleado de un hotel la cantidad de habitaciones que necesita reservar para un cliente.
+El ciclo comienza hasta que se completen las habitaciones. 
+Solo hay disponibles 20 habitaciones. 
+
